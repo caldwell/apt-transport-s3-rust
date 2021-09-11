@@ -1,4 +1,4 @@
-// Copyright © 2021 David Caldwell <david@porkrind.org>
+// Copyright © 2021 David Caldwell <david@porkrind.org>. MIT Licensed. See LICENSE file for details.
 
 use aws_types::credentials::Credentials;
 use hyper::Client;

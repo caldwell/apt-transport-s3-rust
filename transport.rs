@@ -1,3 +1,5 @@
+// Copyright © 2021 David Caldwell <david@porkrind.org>. MIT Licensed. See LICENSE file for details.
+
 use chrono::{Local};
 use log::{warn,debug,trace};
 use tokio::io::{AsyncWriteExt,AsyncBufReadExt};
